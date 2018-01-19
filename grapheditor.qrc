@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="graphEditor">
+    <file>del.png</file>
+    <file>edge.png</file>
+    <file>line.png</file>
+    <file>AddVert.png</file>
+    <file>move.png</file>
+  </qresource>
+</RCC>
